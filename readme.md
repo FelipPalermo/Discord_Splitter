@@ -6,11 +6,10 @@ This project is a Discord bot developed using Python that helps manage voice cha
 
 - Create a new server document in MongoDB.
 - Change topics for voice channels.
-- Reset topics for voice channels.
 - Show current topics.
-- Change User Participation Ratio (UPR).
+- Change User Per Room (UPR).
 - Delete server documents from MongoDB.
-- Split users from a voice channel into smaller groups based on UPR.
+- Split users from a voice channel into smaller groups based on Topics and UPR.
 
 ## Commands
 
