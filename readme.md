@@ -25,11 +25,11 @@ This project is a Discord bot developed using Python that helps manage voice cha
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/FelipPalermo/splitter.git
+   git clone https://github.com/FelipPalermo/Discord_splitter.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd splitter
+   cd Discord_splitter
    ```
 3. Create a virtual environment:
    ```bash
@@ -44,6 +44,10 @@ This project is a Discord bot developed using Python that helps manage voice cha
    pip install -r requirements.txt
    ```
 6. Set up your Discord bot token and MongoDB connection string in environment variables.
+7. run :
+   ```make```
+   in terminal
+
 
 ## License
 
